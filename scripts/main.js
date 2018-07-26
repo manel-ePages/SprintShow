@@ -195,7 +195,7 @@ define([
 				document.getElementsByClassName('slides')[0].innerHTML += contentText;
 			}
 
-            var talismas = "<section><h3>Talisma Tickets</h3><p>13 fixed tickets:</p><p><i>Google-Shopping (796-126)</br>Paypal Express (795-864)</br>Paypal Plus (795-273, 780-665)</br>DHL (795-156, 795-163, 795-421, 795-458, 796-055, 795-454)</br>Amazon (795-010)</br>Search (795-901)</br>Idealo (795-747)</i></p></section>";
+            var talismas = "<section><h3>Talisma Tickets</h3><p>14 fixed tickets:</p><p><i>App-Store (797-523)<br/>Paypal Express (796-167)<br/>Paypal Plus (784-940)<br/>DHL (797-415, 797-564, 797-538, 797-706, 797-605, 797-620, 797-568)<br/>Search (797-659)<br/>Trusted Shop (797-413)<br/>Sage One (798-171, 798-439)<br/></i></p></section>";
             var futureConsiderations = "";
 			//var futureConsiderations = "<section><h3>Roadmap</h3><img style='background:none; border:none; box-shadow:none;' src='img/roadmap.png'/></section>";
 			document.getElementsByClassName('slides')[0].innerHTML += talismas + futureConsiderations + "<section><h3>Questions?</h3></section>";
