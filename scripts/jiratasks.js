@@ -33,8 +33,8 @@ define(function () {
         "relevance": "major",
         "links": [
             "<a href='http://easy.vm-intern.epages.com:9000/component_measures/metric/coverage/history?id=DE_EPAGES%3A%3AGoogleBase' target='_blank'>Coverage</a>",
-            "<a href='https://demounity.teamred-06.vm-intern.epages.com/epages/demounity.admin/?ViewAction=UnityMBO-ViewAppStore&ObjectID=21259&ChangeAction=SaveLoginForm&Login=admin&Password=admin' target='_blank'>AppStore (Now)</a>",
-            "<a href='https://teamred-06.vm-intern.epages.com/epages/DemoShop.admin?ViewAction=MBO-ViewAppStore&ObjectID=20834&ChangeAction=SaveLoginForm&Login=admin&Password=admin' target='_blank'>AppStore (Base)</a>"
+            "<a href='https://teamred-06.vm-intern.epages.com/epages/DemoShop.admin?ViewAction=MBO-ViewProductPortals&ObjectID=20897&ChangeAction=SaveLoginForm&Login=admin&Password=admin' target='_blank'>Product Portal (Base)</a>",
+            "<a href='https://demounity.teamred-06.vm-intern.epages.com/epages/demounity.admin/?ViewAction=UnityMBO-ViewProductPortals&ObjectID=21322&ChangeAction=SaveLoginForm&Login=admin&Password=admin' target='_blank'>Product Portal (Now)</a>"
         ]
     },
     {
@@ -48,6 +48,8 @@ define(function () {
         "relevance": "major",
         "links": [
             "<a href='http://easy.vm-intern.epages.com:9000/component_measures/metric/coverage/history?id=DE_EPAGES%3A%3APayPalExpress' target='_blank'>Coverage</a>",
+            "<a href='img/PayPalExpress_Settings_Old.png' target='_blank'>PayPal Express Settings (before)</a>",
+            "<a href='img/PayPalExpress_Settings_New.png' target='_blank'>PayPal Express Settings (after)</a>"
         ]
     },
     {
